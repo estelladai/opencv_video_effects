@@ -26,4 +26,6 @@
 21. Gamma值變化效果
 22. 波形扭曲效果
 
-##YT連結: https://youtu.be/xZg4DDHe7zA
+##YT連結:
+
+https://youtu.be/xZg4DDHe7zA
