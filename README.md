@@ -1,6 +1,6 @@
 # opencv video effects
 
-## 處理opencv的影片效果:
+## 使用opencv產生不同的影片效果:
 
 0. 正常效果
 1. 灰階效果
