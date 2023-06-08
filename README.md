@@ -1,6 +1,6 @@
 # opencv video effects
 
-## 使用opencv產生不同的影片效果:
+## 不同opencv影片效果
 
 0. 正常效果
 1. 灰階效果
@@ -26,6 +26,5 @@
 21. Gamma值變化效果
 22. 波形扭曲效果
 
-## YT連結:
-
+## YT連結
 https://youtu.be/xZg4DDHe7zA
